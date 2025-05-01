@@ -1,8 +1,8 @@
-# 📇 Contact List
+# 🔢 Basic Counter
 
-Contact List é um projeto desenvolvido com fins de prática, simulando uma lista de contatos simples, construída com React.
+Basic Counter é um projeto desenvolvido com fins de prática, simulando um contador simples, construído com React.
 
-🔗 **Acesse o projeto**: [contactlistexercise.netlify.app](https://contactlistexercise.netlify.app)
+🔗 **Acesse o projeto**: [basiccounterexcercise.netlify.app](https://basiccounterexcercise.netlify.app)
 
 ---
 
@@ -20,7 +20,7 @@ Contact List é um projeto desenvolvido com fins de prática, simulando uma list
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/contact-list.git
-cd contact-list
+git clone https://github.com/seu-usuario/basic-counter.git
+cd basic-counter
 npm install
 npm run dev
